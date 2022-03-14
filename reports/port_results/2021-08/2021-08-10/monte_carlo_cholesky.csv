@@ -1,0 +1,13 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+10,LSI,11.992192267887722,"Life Storage, Inc.",117.47,131.16,299.8,2.55,334.46,11.56,1.0
+1,TRNS,15.318122155865725,"Transcat, Inc.",66.65,73.0,382.95,5.75,419.75,9.61,2.0
+11,AFG,10.075102521451733,"American Financial Group, Inc.",124.65,136.34,251.88,2.02,275.41,9.34,3.0
+9,PBH,4.262689158979219,Prestige Consumer Healthcare Inc.,60.54,56.06,106.57,1.76,98.67,-7.41,4.0
+2,LH,8.005729352823918,Laboratory Corporation of America Holdings,299.99,265.49,200.14,0.67,177.88,-11.12,5.0
+7,DHR,16.17779739445569,Danaher Corporation,310.15,262.52,404.44,1.3,341.28,-15.62,6.0
+5,BBCP,2.531012536206622,"Concrete Pumping Holdings, Inc.",8.73,7.17,63.28,7.25,51.98,-17.86,7.0
+0,CDMO,1.349957008043307,"Avid Bioservices, Inc.",23.26,18.58,33.75,1.45,26.94,-20.18,8.0
+3,CLAR,2.262534107232504,Clarus Corporation,29.07,23.14,56.56,1.95,45.12,-20.23,9.0
+8,TGT,18.344672511200457,Target Corporation,260.09,206.97,458.62,1.76,364.27,-20.57,10.0
+6,NAVI,1.3062584064989868,Navient Corporation,21.93,16.63,32.66,1.49,24.78,-24.13,11.0
+4,SSTI,8.373932579354133,"ShotSpotter, Inc.",42.4,27.95,209.35,4.94,138.07,-34.05,12.0

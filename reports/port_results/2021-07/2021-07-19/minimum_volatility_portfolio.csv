@@ -1,0 +1,6 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+2,WELL,27.697762020828716,Welltower Inc.,86.14,87.9,692.44,8.04,706.72,2.06,1.0
+0,INTU,27.697762020828716,Intuit Inc.,507.32,434.92,692.44,1.36,591.49,-14.58,2.0
+3,IDXX,13.527586970972745,"IDEXX Laboratories, Inc.",669.39,508.9,338.19,0.51,259.54,-23.26,3.0
+1,CRL,27.697762020828716,"Charles River Laboratories International, Inc.",385.48,255.84,692.44,1.8,460.51,-33.49,4.0
+4,APTV,3.3791269665411034,Aptiv PLC,153.15,96.94,84.48,0.55,53.32,-36.88,5.0

@@ -1,0 +1,7 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+2,HCA,15.981235340109464,"HCA Healthcare, Inc.",252.53,261.73,399.53,1.58,413.53,3.5,1.0
+4,TECH,7.568412822517592,Bio-Techne Corporation,480.27,391.71,189.21,0.39,152.77,-19.26,2.0
+5,COF,1.751368256450352,Capital One Financial Corporation,159.02,124.33,43.78,0.28,34.81,-20.49,3.0
+3,NKE,9.038311180609853,"NIKE, Inc.",170.25,121.86,225.96,1.33,162.07,-28.27,4.0
+1,DXC,26.567630961688817,DXC Technology Company,43.42,29.78,664.19,15.3,455.63,-31.4,5.0
+0,CRL,39.09304143862393,"Charles River Laboratories International, Inc.",411.24,255.9,977.33,2.38,609.04,-37.68,6.0

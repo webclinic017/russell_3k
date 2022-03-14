@@ -1,0 +1,4 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+0,NVDA,33.333333333333336,NVIDIA Corporation,189.57,213.16,833.33,4.4,937.9,12.55,1.0
+1,INTU,33.333333333333336,Intuit Inc.,501.95,437.0,833.33,1.66,725.42,-12.95,2.0
+2,GNRC,33.333333333333336,Generac Holdings Inc.,432.86,310.05,833.33,1.93,598.4,-28.19,3.0

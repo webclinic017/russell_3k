@@ -1,0 +1,8 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+7,HCA,3.25006715014773,"HCA Healthcare, Inc.",247.3,262.11,81.25,0.33,86.5,6.46,1.0
+1,PH,33.5750738651625,Parker-Hannifin Corporation,300.39,273.69,839.38,2.79,763.6,-9.03,2.0
+4,LKQ,10.435132957292504,LKQ Corporation,50.41,42.6,260.88,5.18,220.67,-15.41,3.0
+8,TECH,2.242814934192855,Bio-Techne Corporation,485.74,391.87,56.07,0.12,47.02,-16.14,4.0
+0,IDXX,33.5750738651625,"IDEXX Laboratories, Inc.",698.48,507.56,839.38,1.2,609.07,-27.44,5.0
+6,NKE,4.70051034112275,"NIKE, Inc.",170.93,122.15,117.51,0.69,84.28,-28.28,6.0
+3,CRL,12.22132688691915,"Charles River Laboratories International, Inc.",416.31,256.04,305.53,0.73,186.91,-38.82,7.0

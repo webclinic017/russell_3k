@@ -1,0 +1,6 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+1,NXRT,27.89546930570589,"NexPoint Residential Trust, Inc.",78.18,90.49,697.39,8.92,807.17,15.74,1.0
+3,ROG,9.540745322406062,Rogers Corporation,270.37,273.37,238.52,0.88,240.57,0.86,2.0
+2,NVEE,23.6585743002938,"NV5 Global, Inc.",126.95,124.76,591.46,4.66,581.38,-1.7,3.0
+5,EXR,6.43265811040668,Extra Space Storage Inc.,215.8,198.57,160.82,0.75,148.93,-7.39,4.0
+0,LSI,32.47255296118757,"Life Storage, Inc.",145.52,132.14,811.81,5.58,737.34,-9.17,5.0

@@ -1,0 +1,9 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+4,KZR,0.9491925062804545,"Kezar Life Sciences, Inc.",9.09,14.23,23.73,2.61,37.14,56.51,1.0
+7,LSI,23.617906595036988,"Life Storage, Inc.",121.48,131.16,590.45,4.86,637.44,7.96,2.0
+6,EFX,18.826605201500033,Equifax Inc.,272.23,223.9,470.67,1.73,387.35,-17.7,3.0
+2,DHR,19.560443349933568,Danaher Corporation,324.82,262.52,489.01,1.51,396.41,-18.94,4.0
+3,INTU,4.690273052962156,Intuit Inc.,572.11,439.32,117.26,0.2,87.86,-25.07,5.0
+0,SWAV,23.13246286893945,"ShockWave Medical, Inc.",221.15,157.45,578.31,2.62,412.52,-28.67,6.0
+1,NAVI,4.420045831815452,Navient Corporation,23.37,16.63,110.5,4.73,78.66,-28.81,7.0
+5,BSY,4.803070593531895,"Bentley Systems, Incorporated",71.17,36.44,120.08,1.69,61.58,-48.72,8.0

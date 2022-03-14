@@ -1,0 +1,5 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+1,INTU,46.69406051550243,Intuit Inc.,501.95,437.0,1167.35,2.33,1018.21,-12.78,1.0
+0,TRMB,46.69406051550243,Trimble Inc.,80.94,63.54,1167.35,14.42,916.25,-21.51,2.0
+3,GNRC,2.87635412775495,Generac Holdings Inc.,432.86,310.05,71.91,0.17,52.71,-26.7,3.0
+2,ALGN,3.7355248412401942,"Align Technology, Inc.",621.7,418.92,93.39,0.15,62.84,-32.71,4.0

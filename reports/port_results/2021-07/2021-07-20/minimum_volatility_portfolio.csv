@@ -1,0 +1,7 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+1,WELL,16.895919303071988,Welltower Inc.,86.11,88.05,422.4,4.91,432.33,2.35,1.0
+2,INTU,15.58917927556167,Intuit Inc.,513.2,435.13,389.73,0.76,330.7,-15.15,2.0
+0,TGT,28.656579550664834,Target Corporation,253.21,208.2,716.41,2.83,589.21,-17.76,3.0
+5,NKE,9.19303071985328,"NIKE, Inc.",160.16,122.56,229.83,1.44,176.49,-23.21,4.0
+4,IDXX,14.442916093535077,"IDEXX Laboratories, Inc.",670.51,508.45,361.07,0.54,274.56,-23.96,5.0
+3,CRL,15.22237505731316,"Charles River Laboratories International, Inc.",385.77,255.04,380.56,0.99,252.49,-33.65,6.0

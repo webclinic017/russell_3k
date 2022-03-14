@@ -1,0 +1,14 @@
+,ticker,company,sector,industry,market cap,analyst_recom,sentiment_score,rs_rating,returns_multiple,current_price,target_price,est_gl,performance_(week),performance_(month),performance_(quarter),performance_(half year),performance_(year),performance_(ytd),20_day_ma,50_day_ma,200_day_ma,52_week_low,52_week_high,my_score,in_sp500
+3,AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,146959.91,74.0,10.0,55.1,78.46,151.67,169.85,11.99,3.78%,8.46%,24.44%,19.78%,62.72%,1.39%,151.19,140.1,133.55,159.0,82.88,46.37,True
+9,ANET,"Arista Networks, Inc.",Technology,Computer Hardware,41890.79,66.5,17.0,50.11,83.32,121.39,135.51,11.63,-0.08%,0.66%,38.63%,44.60%,71.88%,-7.44%,129.37,107.96,90.27,134.13,65.52,44.54,True
+40,COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,239081.25,69.0,17.0,57.82,41.28,529.84,555.83,4.91,-4.39%,-5.64%,18.08%,27.68%,43.29%,-7.38%,524.33,487.03,415.43,560.8,306.99,47.94,True
+58,DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,33423.02,79.0,30.0,46.93,209.5,40.84,51.64,26.44,7.06%,21.53%,32.28%,96.15%,177.56%,13.28%,42.84,39.99,29.07,45.56,13.39,51.98,True
+60,EFX,Equifax Inc.,Industrials,Consulting Services,33422.66,69.0,15.0,48.25,66.96,277.56,300.53,8.28,-6.25%,-11.86%,2.69%,4.43%,43.73%,-10.58%,282.99,271.13,237.76,292.11,161.87,44.08,True
+61,ENPH,"Enphase Energy, Inc.",Technology,Solar,21021.61,71.5,26.0,50.69,83.06,236.86,257.17,8.57,-5.04%,-30.09%,-13.82%,-9.69%,-26.71%,-18.40%,248.18,202.5,170.72,282.45,108.88,49.4,True
+65,EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,29597.06,69.0,16.0,54.69,77.42,199.54,221.29,10.9,-2.77%,-0.54%,17.77%,22.57%,89.26%,-6.62%,199.78,187.41,163.45,204.97,106.56,46.56,True
+92,INTU,Intuit Inc.,Technology,Software - Application,168883.19,79.0,20.0,56.88,85.3,663.89,739.45,11.38,-2.77%,-13.68%,7.91%,14.72%,58.17%,-10.25%,640.33,594.4,495.7,716.87,350.06,51.96,True
+121,MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,21664.4,74.0,17.0,54.5,72.98,555.2,603.29,8.66,-2.52%,-6.48%,-3.66%,18.29%,15.63%,-9.00%,552.77,518.49,420.32,580.03,301.51,48.5,True
+131,NVDA,NVIDIA Corporation,Technology,Semiconductors,723891.72,74.0,9.0,58.75,143.82,314.35,341.2,8.54,1.43%,-0.58%,33.72%,47.63%,106.91%,-4.80%,306.18,254.76,192.6,346.47,115.66,47.25,True
+152,POOL,Pool Corporation,Consumer Cyclical,Leisure,21266.23,66.5,18.0,58.25,60.1,552.22,566.71,2.62,-3.13%,-8.79%,16.45%,11.52%,37.22%,-9.40%,550.24,499.2,442.91,582.26,305.47,47.58,True
+164,SBNY,Signature Bank,Financial,Banks - Regional,21992.94,81.5,13.0,42.13,169.45,305.01,378.28,24.02,7.33%,23.82%,22.87%,47.02%,138.10%,13.15%,323.07,303.83,257.0,342.02,113.29,45.54,True
+201,WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,31042.25,74.0,8.0,52.22,60.87,435.41,457.0,4.96,-0.67%,-8.99%,-0.24%,7.88%,34.65%,-14.44%,431.23,425.66,370.5,475.34,253.85,44.74,True

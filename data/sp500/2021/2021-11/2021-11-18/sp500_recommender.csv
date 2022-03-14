@@ -1,0 +1,31 @@
+,ticker,company,sector,industry,market cap,analyst_recom,sentiment_score,rs_rating,returns_multiple,current_price,target_price,est_gl,performance_(week),performance_(month),performance_(quarter),performance_(half year),performance_(year),performance_(ytd),20_day_ma,50_day_ma,200_day_ma,52_week_low,52_week_high,my_score,in_sp500
+0,AAP,"Advance Auto Parts, Inc.",Consumer Cyclical,Specialty Retail,14576.17,76.5,18.0,77,1.21,231.92,240.65,3.76,-2.74%,2.32%,10.61%,18.97%,56.60%,47.24%,231.64,,200.37,142.59,243.05,57.166666666666664,True
+16,AMP,"Ameriprise Financial, Inc.",Financial,Asset Management,33654.9,84.0,26.0,80,1.26,303.17,333.78,10.1,-0.96%,2.17%,15.89%,19.23%,65.37%,56.01%,304.24,,257.11,179.77,312.15,63.333333333333336,True
+23,APA,APA Corporation,Energy,Oil & Gas E&P,10005.47,71.5,14.0,94,1.85,27.58,32.73,18.67,-6.22%,0.47%,71.62%,32.02%,149.82%,94.36%,28.4,,20.96,10.89,31.14,59.833333333333336,True
+39,BAC,Bank of America Corporation,Financial,Banks - Diversified,383773.7,71.5,14.0,82,1.31,46.32,47.58,2.72,-2.46%,-1.64%,14.74%,9.25%,71.68%,52.82%,47.34,,40.77,26.63,48.69,55.833333333333336,True
+104,DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,29423.81,86.5,24.0,97,2.43,43.32,47.69,10.09,1.40%,5.89%,70.84%,74.57%,249.50%,182.08%,42.13,,28.58,12.66,44.79,69.16666666666667,True
+114,EPAM,"EPAM Systems, Inc.",Technology,Information Technology Services,37479.41,81.5,18.0,89,1.51,663.94,780.53,17.56,-0.63%,5.74%,5.37%,39.13%,102.46%,85.28%,674.78,,519.78,311.82,725.4,62.833333333333336,True
+130,FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,19349.67,86.5,28.0,95,2.08,107.96,128.29,18.83,-0.74%,-2.87%,58.35%,41.48%,186.06%,123.06%,110.49,,84.86,36.46,117.71,69.83333333333333,True
+137,FITB,Fifth Third Bancorp,Financial,Banks - Regional,30242.52,81.5,18.0,82,1.3,44.14,48.58,10.06,-0.36%,-3.18%,17.33%,5.30%,71.75%,60.10%,44.33,,39.41,25.0,45.92,60.5,True
+142,FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,55294.81,76.5,19.0,96,2.23,343.51,367.7,7.04,1.97%,3.02%,15.30%,62.93%,194.40%,131.27%,335.48,,249.68,115.17,355.35,63.833333333333336,True
+153,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,2069129.03,91.5,13.0,82,1.3,3014.18,3279.44,8.8,2.70%,5.82%,8.86%,28.53%,72.56%,72.05%,2932.1,,2529.15,1699.0,3032.2,62.166666666666664,True
+154,GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,1956471.27,89.0,13.0,82,1.3,2996.77,3262.59,8.87,2.79%,5.69%,9.03%,30.63%,72.16%,70.99%,2919.58,,2498.82,1694.0,3012.3,61.333333333333336,True
+173,IQV,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,50662.0,89.0,16.0,76,1.2,266.6,288.22,8.11,5.55%,6.00%,4.67%,11.57%,57.69%,48.80%,256.43,,233.51,165.52,271.32,60.333333333333336,True
+178,JCI,Johnson Controls International plc,Industrials,Engineering & Construction,55742.3,79.0,22.0,84,1.34,80.34,83.39,3.8,5.46%,9.87%,9.46%,24.56%,74.80%,72.44%,75.37,,67.19,44.91,80.42,61.666666666666664,True
+185,KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,15007.62,74.0,19.0,77,1.22,24.08,25.07,4.11,1.18%,3.61%,12.95%,18.21%,65.50%,60.43%,23.41,,20.9,14.03,24.95,56.666666666666664,True
+193,LKQ,LKQ Corporation,Consumer Cyclical,Auto Parts,16988.89,94.0,17.0,80,1.27,59.1,65.89,11.49,2.37%,6.51%,15.97%,17.03%,65.73%,67.71%,57.09,,48.76,34.11,60.05,63.666666666666664,True
+213,MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,25523.23,86.5,14.0,85,1.37,560.95,603.29,7.55,1.15%,11.97%,17.80%,72.90%,86.91%,53.17%,543.11,,414.12,300.45,576.7,61.833333333333336,True
+215,MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P,12587.63,74.0,19.0,96,2.16,16.12,19.5,20.97,-3.65%,-2.24%,50.37%,38.97%,193.62%,141.68%,16.67,,12.56,5.37,17.59,63.0,True
+222,NDAQ,"Nasdaq, Inc.",Financial,Financial Data & Stock Exchanges,34527.33,71.5,19.0,80,1.27,208.7,215.46,3.24,1.21%,4.79%,10.62%,27.36%,70.05%,57.22%,208.23,,175.49,122.86,214.96,56.833333333333336,True
+260,PWR,"Quanta Services, Inc.",Industrials,Engineering & Construction,16901.76,86.5,16.0,83,1.33,119.06,133.75,12.34,2.16%,4.15%,23.63%,28.55%,76.18%,65.32%,118.5,,97.67,66.63,124.69,61.833333333333336,True
+261,PXD,Pioneer Natural Resources Company,Energy,Oil & Gas E&P,43815.1,84.0,27.0,86,1.42,179.71,222.39,23.75,-1.80%,-6.43%,27.17%,19.23%,89.95%,57.79%,186.51,,159.37,93.0,196.64,65.66666666666667,True
+265,RF,Regions Financial Corporation,Financial,Banks - Regional,22945.19,71.5,20.0,75,1.18,23.9,25.84,8.12,-0.91%,1.62%,19.32%,5.01%,55.09%,48.26%,24.1,,21.18,14.98,24.78,55.5,True
+266,RJF,"Raymond James Financial, Inc.",Financial,Capital Markets,20299.45,86.5,18.0,79,1.25,97.89,118.62,21.18,-2.84%,-3.72%,8.10%,9.99%,64.83%,53.48%,100.2,,88.37,58.13,103.46,61.166666666666664,True
+276,SCHW,The Charles Schwab Corporation,Financial,Capital Markets,153163.71,79.0,15.0,83,1.32,81.72,91.54,12.02,0.39%,0.16%,13.55%,13.23%,71.32%,54.07%,81.89,,71.15,46.25,84.49,59.0,True
+282,SIVB,SVB Financial Group,Financial,Banks - Regional,43610.54,74.0,21.0,90,1.6,744.97,808.33,8.51,0.40%,5.63%,35.22%,30.73%,114.38%,92.09%,740.79,,583.37,337.83,763.22,61.666666666666664,True
+284,SLB,Schlumberger Limited,Energy,Oil & Gas Equipment & Services,44715.19,84.0,20.0,76,1.19,31.86,39.66,24.48,-2.81%,-8.29%,20.41%,-0.28%,59.54%,45.95%,33.15,,29.87,19.55,36.87,60.0,True
+294,STX,Seagate Technology Holdings plc,Technology,Computer Hardware,21945.94,71.5,14.0,85,1.38,101.25,104.48,3.19,-3.81%,25.73%,13.20%,7.80%,83.29%,62.89%,96.06,,85.98,54.53,116.93,56.833333333333336,True
+319,TXT,Textron Inc.,Industrials,Aerospace & Defense,16552.74,79.0,16.0,80,1.26,75.25,86.0,14.29,-2.11%,1.06%,6.05%,12.97%,63.55%,55.70%,75.2,,65.72,44.34,78.13,58.333333333333336,True
+326,URI,"United Rentals, Inc.",Industrials,Rental & Leasing Services,27320.0,74.0,42.0,83,1.33,377.87,391.47,3.6,-1.20%,3.27%,14.46%,17.55%,74.74%,62.94%,378.38,,330.54,209.16,414.99,66.33333333333333,True
+339,WFC,Wells Fargo & Company,Financial,Banks - Diversified,197518.18,76.5,28.0,87,1.45,49.9,52.0,4.21,-1.36%,-0.52%,5.23%,8.76%,99.12%,65.34%,50.72,,44.66,24.97,52.57,63.833333333333336,True
+348,ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,32065.7,76.5,19.0,81,1.29,606.96,624.5,2.89,3.74%,15.16%,6.21%,22.78%,79.80%,57.93%,572.05,,520.68,333.06,614.1,58.833333333333336,True

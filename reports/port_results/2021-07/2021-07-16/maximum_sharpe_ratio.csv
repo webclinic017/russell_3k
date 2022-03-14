@@ -1,0 +1,5 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+1,WELL,30.8413520848754,Welltower Inc.,82.62,87.89,771.03,9.33,820.01,6.35,1.0
+2,INTU,22.526523562792995,Intuit Inc.,497.57,436.47,563.16,1.13,493.21,-12.42,2.0
+3,IDXX,15.790772267456205,"IDEXX Laboratories, Inc.",669.4,509.72,394.77,0.59,300.73,-23.82,3.0
+0,CRL,30.8413520848754,"Charles River Laboratories International, Inc.",378.3,256.42,771.03,2.04,523.1,-32.16,4.0

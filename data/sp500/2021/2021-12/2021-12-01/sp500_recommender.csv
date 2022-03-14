@@ -1,0 +1,28 @@
+,ticker,company,sector,industry,market cap,analyst_recom,sentiment_score,rs_rating,returns_multiple,current_price,target_price,est_gl,performance_(week),performance_(month),performance_(quarter),performance_(half year),performance_(year),performance_(ytd),20_day_ma,50_day_ma,200_day_ma,52_week_low,52_week_high,my_score,in_sp500
+3,ACN,Accenture plc,Technology,Information Technology Services,235347.9,79.0,30.0,79,1.17,360.14,379.0,5.24,-1.62%,-0.39%,6.19%,26.83%,43.48%,36.82%,365.51,,309.35,241.73,374.92,62.666666666666664,True
+4,ADBE,Adobe Inc.,Technology,Software - Infrastructure,310656.32,89.0,19.0,75,1.11,657.41,706.14,7.41,-0.55%,3.00%,0.93%,35.11%,40.00%,33.94%,665.94,,569.1,420.78,699.54,61.0,True
+6,AJG,Arthur J. Gallagher & Co.,Financial,Insurance Brokers,33642.11,74.0,16.0,76,1.13,162.33,178.58,10.01,-1.15%,-2.84%,13.42%,11.08%,41.15%,31.68%,163.34,,143.57,112.92,168.5,55.333333333333336,True
+14,ANET,"Arista Networks, Inc.",Technology,Computer Hardware,39183.11,74.0,16.0,90,1.45,121.39,127.58,5.1,-3.20%,21.13%,34.29%,48.50%,83.32%,70.78%,129.29,,90.49,65.52,134.14,60.0,True
+20,AVGO,Broadcom Inc.,Technology,Semiconductors,230341.95,81.5,14.0,76,1.12,554.76,573.37,3.35,0.07%,4.14%,11.36%,16.88%,37.88%,26.45%,558.41,,485.48,398.1,577.21,57.166666666666664,True
+24,AZO,"AutoZone, Inc.",Consumer Cyclical,Specialty Retail,38431.03,76.5,15.0,84,1.27,1806.83,1826.71,1.1,-2.56%,1.81%,17.29%,29.36%,59.72%,53.28%,1854.49,,1545.81,1085.85,1941.36,58.5,True
+64,DHR,Danaher Corporation,Healthcare,Diagnostics & Research,228753.59,84.0,18.0,78,1.16,319.72,348.08,8.87,2.52%,3.17%,-0.78%,32.90%,43.19%,44.79%,309.84,,276.19,211.22,333.96,60.0,True
+67,DRE,Duke Realty Corporation,Real Estate,REIT - Industrial,22041.16,79.0,13.0,84,1.26,58.56,60.81,3.84,-0.75%,3.72%,11.08%,21.52%,53.26%,45.93%,57.9,,48.69,37.54,60.63,58.666666666666664,True
+68,DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,30382.04,86.5,22.0,97,2.24,40.84,49.97,22.36,2.24%,4.94%,44.26%,39.50%,209.50%,173.87%,42.78,,29.5,13.78,45.56,68.5,True
+72,EFX,Equifax Inc.,Industrials,Consulting Services,34034.31,74.0,15.0,88,1.37,277.56,296.06,6.67,-0.90%,0.44%,2.35%,20.34%,66.96%,44.50%,283.15,,238.26,161.87,292.11,59.0,True
+73,ENPH,"Enphase Energy, Inc.",Technology,Solar,32057.5,79.0,26.0,91,1.51,236.86,261.25,10.3,-4.26%,7.93%,43.90%,79.64%,83.06%,42.47%,248.14,,170.96,108.88,282.46,65.33333333333333,True
+83,FE,FirstEnergy Corp.,Utilities,Utilities - Diversified,20545.41,71.5,21.0,76,1.12,37.73,42.5,12.64,-2.76%,-2.26%,-3.11%,-1.26%,41.79%,23.03%,38.76,,37.11,26.85,39.94,56.166666666666664,True
+104,INTU,Intuit Inc.,Technology,Software - Application,161946.52,84.0,16.0,92,1.52,663.89,734.87,10.69,-1.41%,4.20%,15.22%,46.44%,85.30%,71.73%,642.58,,496.95,350.06,716.86,64.0,True
+106,IQV,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,49361.67,89.0,16.0,82,1.24,259.25,300.22,15.8,-3.13%,-0.88%,-0.23%,10.27%,53.34%,44.63%,259.11,,236.51,165.52,272.25,62.333333333333336,True
+109,JCI,Johnson Controls International plc,Industrials,Engineering & Construction,52323.78,79.0,22.0,87,1.33,74.97,83.39,11.23,-6.14%,1.89%,-0.05%,12.61%,62.38%,60.46%,77.22,,68.2,44.91,81.15,62.666666666666664,True
+119,LKQ,LKQ Corporation,Consumer Cyclical,Auto Parts,16538.02,94.0,18.0,84,1.27,56.08,65.89,17.49,-4.98%,1.49%,6.09%,11.18%,58.72%,58.63%,57.96,,49.58,34.11,60.05,65.33333333333333,True
+121,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,170709.14,84.0,19.0,86,1.31,245.34,267.2,8.91,-3.08%,4.61%,19.96%,28.21%,56.97%,52.38%,242.15,,200.75,149.31,256.39,63.0,True
+133,MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,25077.27,86.5,14.0,89,1.41,555.2,603.29,8.66,-0.79%,5.33%,11.83%,61.06%,72.98%,51.12%,553.72,,421.2,301.51,580.0,63.166666666666664,True
+136,MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,43569.74,86.5,21.0,79,1.17,245.95,270.27,9.89,-0.95%,1.85%,3.67%,21.96%,47.60%,48.88%,252.52,,217.51,163.16,262.42,62.166666666666664,True
+152,NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,59217.2,81.5,13.0,76,1.13,223.0,240.7,7.94,0.67%,11.20%,3.83%,7.46%,40.99%,40.47%,219.7,,202.22,152.93,234.61,56.833333333333336,True
+161,ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Specialty Retail,43656.52,76.5,17.0,79,1.17,636.74,695.25,9.19,-0.31%,2.55%,7.42%,19.59%,44.24%,41.01%,641.59,,569.13,424.03,669.09,57.5,True
+166,PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,111720.82,84.0,14.0,84,1.26,151.7,156.66,3.27,-0.10%,3.99%,11.95%,23.83%,50.67%,51.26%,149.98,,124.46,93.08,156.69,60.666666666666664,True
+167,POOL,Pool Corporation,Consumer Cyclical,Leisure,22247.92,74.0,15.0,86,1.32,552.22,566.71,2.62,-0.91%,7.56%,12.10%,25.77%,60.10%,48.76%,552.08,,444.0,305.47,582.27,58.333333333333336,True
+183,STX,Seagate Technology Holdings plc,Technology,Computer Hardware,22964.2,71.5,13.0,88,1.38,103.84,105.43,1.53,1.03%,15.27%,17.22%,4.73%,74.58%,65.17%,101.03,,87.19,58.04,116.93,57.5,True
+211,WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,32858.65,81.5,13.0,85,1.29,435.41,457.0,4.96,1.14%,2.97%,-1.98%,32.62%,60.87%,56.25%,431.08,,371.22,253.86,475.35,59.833333333333336,True
+213,ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,32006.08,76.5,18.0,85,1.29,581.03,630.91,8.58,-2.35%,10.27%,0.27%,16.64%,55.59%,53.20%,595.37,,526.53,363.0,614.1,59.833333333333336,True
+215,ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,104640.79,89.0,19.0,76,1.12,219.66,238.83,8.73,-1.03%,2.70%,8.55%,28.38%,38.45%,34.16%,219.93,,187.95,141.41,228.89,61.333333333333336,True

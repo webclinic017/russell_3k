@@ -1,0 +1,12 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+10,AFG,0.9578935156735789,"American Financial Group, Inc.",122.4,136.34,23.95,0.2,27.27,13.86,1.0
+9,LSI,18.849365310959094,"Life Storage, Inc.",118.57,131.16,471.23,3.97,520.71,10.5,2.0
+6,AMN,17.274086901942084,"AMN Healthcare Services, Inc.",104.39,93.78,431.85,4.14,388.25,-10.1,3.0
+8,EVC,0.4762976968437575,Entravision Communications Corporation,6.85,6.02,11.91,1.74,10.47,-12.09,4.0
+4,UTHR,12.662838004065565,United Therapeutics Corporation,207.72,173.0,316.57,1.52,262.96,-16.93,5.0
+3,INTU,8.301067068887072,Intuit Inc.,535.23,439.32,207.53,0.39,171.33,-17.44,6.0
+5,TGT,11.80840100560858,Target Corporation,259.5,206.97,295.21,1.14,235.95,-20.07,7.0
+2,CARR,17.022662841868424,Carrier Global Corporation,55.95,43.22,425.57,7.61,328.9,-22.72,8.0
+1,NAVI,0.9750140695965465,Navient Corporation,21.5,16.63,24.38,1.13,18.79,-22.93,9.0
+0,NET,11.627503952682718,"Cloudflare, Inc.",123.43,88.72,290.69,2.36,209.38,-27.97,10.0
+7,RDNT,0.044869631872581243,"RadNet, Inc.",34.98,20.78,1.12,0.03,0.62,-44.64,11.0

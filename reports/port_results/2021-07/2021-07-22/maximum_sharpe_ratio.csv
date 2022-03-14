@@ -1,0 +1,8 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+0,EXR,27.17391304347826,Extra Space Storage Inc.,169.26,197.58,679.35,4.01,792.3,16.63,1.0
+5,UPS,4.804347826086956,"United Parcel Service, Inc.",207.98,200.0,120.11,0.58,116.0,-3.42,2.0
+4,CARR,11.75,Carrier Global Corporation,51.63,42.94,293.75,5.69,244.33,-16.82,3.0
+2,INTU,13.91304347826087,Intuit Inc.,527.15,433.0,347.83,0.66,285.78,-17.84,4.0
+1,TGT,27.17391304347826,Target Corporation,258.13,207.56,679.35,2.63,545.88,-19.65,5.0
+3,IDXX,12.173913043478262,"IDEXX Laboratories, Inc.",693.74,505.42,304.35,0.44,222.38,-26.93,6.0
+6,CRL,3.010869565217391,"Charles River Laboratories International, Inc.",396.32,254.51,75.27,0.19,48.36,-35.75,7.0

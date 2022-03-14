@@ -1,0 +1,15 @@
+,ticker,company,sector,industry,market cap,analyst_recom,sentiment_score,rs_rating,returns_multiple,current_price,target_price,est_gl,performance_(week),performance_(month),performance_(quarter),performance_(half year),performance_(year),performance_(ytd),20_day_ma,50_day_ma,200_day_ma,52_week_low,52_week_high,my_score,in_sp500
+3,APA,APA Corporation,Energy,Oil & Gas E&P,11637.76,56.0,17.0,96,1.52,32.6,35.12,7.73,8.34%,28.62%,22.39%,78.48%,74.88%,19.34%,29.26,,22.66,14.03,34.4,56.333333333333336,True
+19,COP,ConocoPhillips,Energy,Oil & Gas E&P,107349.69,75.0,13.0,96,1.57,87.08,91.8,5.42,6.54%,18.31%,13.23%,50.67%,74.68%,15.85%,77.81,,63.44,39.7,89.11,61.333333333333336,True
+28,DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,33248.87,75.0,29.0,99,2.07,49.7,51.64,3.9,2.63%,23.05%,28.98%,101.72%,160.45%,12.69%,46.6,,33.11,16.11,51.99,67.66666666666667,True
+31,EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,58073.7,69.0,11.0,95,1.44,104.84,113.03,7.81,6.78%,19.58%,15.24%,41.21%,69.82%,14.83%,95.23,,81.85,50.08,107.99,58.333333333333336,True
+34,FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,22874.15,72.0,22.0,98,1.74,125.46,135.03,7.63,0.35%,19.23%,14.01%,58.35%,100.36%,15.05%,116.55,,92.53,56.13,131.75,64.0,True
+40,FITB,Fifth Third Bancorp,Financial,Banks - Regional,33574.74,72.0,17.0,91,1.26,48.54,49.36,1.69,2.42%,14.89%,14.17%,36.10%,52.24%,13.75%,46.34,,41.18,28.25,50.64,60.0,True
+45,HES,Hess Corporation,Energy,Oil & Gas E&P,27620.65,63.0,11.0,89,1.22,91.5,107.21,17.17,6.29%,18.94%,0.74%,18.65%,42.07%,22.40%,81.96,,79.08,53.43,94.51,54.333333333333336,True
+58,LYV,"Live Nation Entertainment, Inc.",Communication Services,Entertainment,26350.66,63.0,21.0,90,1.23,113.21,115.0,1.58,-4.58%,5.25%,13.41%,45.00%,55.28%,-4.86%,117.31,,94.1,65.88,127.75,58.0,True
+63,MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,44516.92,75.0,13.0,93,1.33,73.84,76.25,3.26,4.23%,17.09%,9.66%,37.29%,60.63%,14.27%,68.23,,60.89,42.32,75.88,60.333333333333336,True
+65,MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P,14290.91,63.0,21.0,98,1.87,19.23,20.53,6.76,3.00%,22.33%,15.06%,58.04%,114.19%,13.09%,17.5,,13.74,7.2,20.01,60.666666666666664,True
+76,OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,31463.08,53.0,7.0,92,1.31,36.24,41.16,13.58,4.24%,18.82%,6.75%,31.65%,40.88%,17.80%,31.93,,28.67,19.46,37.0,50.666666666666664,True
+86,PXD,Pioneer Natural Resources Company,Energy,Oil & Gas E&P,50421.58,72.0,25.0,94,1.37,217.75,229.15,5.24,4.52%,16.78%,10.22%,49.57%,59.24%,13.98%,194.43,,166.63,115.15,218.28,63.666666666666664,True
+92,SBNY,Signature Bank,Financial,Banks - Regional,21941.86,78.0,14.0,98,1.89,352.95,378.28,7.18,0.74%,21.79%,21.36%,54.80%,128.48%,12.89%,341.07,,274.44,146.1,374.76,63.333333333333336,True
+93,SCHW,The Charles Schwab Corporation,Financial,Capital Markets,174619.66,69.0,18.0,92,1.28,91.28,97.06,6.33,2.91%,15.58%,19.55%,35.55%,57.39%,11.03%,88.89,,75.52,50.77,95.62,59.666666666666664,True

@@ -1,0 +1,9 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+7,AFG,1.5964334544122525,"American Financial Group, Inc.",116.56,136.34,39.91,0.34,46.36,16.16,1.0
+6,LSI,17.294656753417396,"Life Storage, Inc.",115.69,131.16,432.37,3.74,490.54,13.45,2.0
+5,AMN,8.187468274916382,"AMN Healthcare Services, Inc.",100.56,93.78,204.69,2.04,191.31,-6.54,3.0
+3,INTU,3.6088430583922557,Intuit Inc.,529.97,439.32,90.22,0.17,74.68,-17.22,4.0
+1,NAVI,6.133544602094087,Navient Corporation,20.43,16.63,153.34,7.51,124.89,-18.55,5.0
+4,TGT,7.799287891713252,Target Corporation,258.15,206.97,194.98,0.76,157.3,-19.33,6.0
+2,CARR,34.810024997322344,Carrier Global Corporation,54.97,43.22,870.25,15.83,684.17,-21.38,7.0
+0,NET,20.569740967732038,"Cloudflare, Inc.",118.63,88.72,514.24,4.33,384.16,-25.3,8.0

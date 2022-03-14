@@ -1,0 +1,7 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+1,WELL,29.43947244465379,Welltower Inc.,87.76,87.89,735.99,8.39,737.4,0.19,1.0
+2,INTU,26.17757889778615,Intuit Inc.,500.29,436.4,654.44,1.31,571.68,-12.65,2.0
+3,IDXX,8.92604804521903,"IDEXX Laboratories, Inc.",667.76,509.18,223.15,0.33,168.03,-24.7,3.0
+4,ZBRA,5.405087140838436,Zebra Technologies Corporation,518.33,385.14,135.13,0.26,100.14,-25.89,4.0
+0,CRL,29.43947244465379,"Charles River Laboratories International, Inc.",384.49,255.38,735.99,1.91,487.78,-33.72,5.0
+5,APTV,0.6123410268487989,Aptiv PLC,149.75,96.81,15.31,0.1,9.68,-36.77,6.0

@@ -1,0 +1,6 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+3,HCA,13.232416846874678,"HCA Healthcare, Inc.",244.98,262.22,330.81,1.35,354.0,7.01,1.0
+1,INTU,25.744001647616106,Intuit Inc.,521.83,433.73,643.6,1.23,533.49,-17.11,2.0
+4,DXC,12.511584800741428,DXC Technology Company,39.75,29.81,312.79,7.87,234.6,-25.0,3.0
+2,IDXX,22.767995057151683,"IDEXX Laboratories, Inc.",695.58,505.95,569.2,0.82,414.88,-27.11,4.0
+0,CRL,25.744001647616106,"Charles River Laboratories International, Inc.",399.62,255.46,643.6,1.61,411.29,-36.1,5.0

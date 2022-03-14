@@ -1,0 +1,72 @@
+,ticker,company,sector,industry,market cap,analyst_recom,sentiment_score,rs_rating,returns_multiple,current_price,target_price,est_gl,performance_(week),performance_(month),performance_(quarter),performance_(half year),performance_(year),performance_(ytd),20_day_ma,50_day_ma,200_day_ma,52_week_low,52_week_high,my_score,in_russell_3k
+0,AAWW,"Atlas Air Worldwide Holdings, Inc.",Industrials,Airports & Air Services,2722.64,74.0,26.0,89,1.31,91.95,105.57,14.81,3.25%,-3.12%,17.13%,34.86%,64.93%,68.59%,88.18,,74.44,50.22,95.0,63.0,True
+1,ACLS,"Axcelis Technologies, Inc.",Technology,Semiconductor Equipment & Materials,2222.13,79.0,19.0,97,1.83,68.08,79.33,16.52,9.91%,6.66%,38.51%,74.03%,136.72%,133.79%,64.57,,46.84,28.03,69.79,65.0,True
+2,AMBA,"Ambarella, Inc.",Technology,Semiconductor Equipment & Materials,7323.18,66.5,16.0,95,1.65,200.58,218.0,8.68,11.66%,11.40%,23.14%,93.14%,114.85%,118.45%,195.84,,129.45,82.59,227.59,59.166666666666664,True
+4,AMN,"AMN Healthcare Services, Inc.",Healthcare,Medical Care Facilities,5748.29,81.5,16.0,91,1.38,122.33,133.33,8.99,7.56%,4.86%,6.14%,29.48%,75.69%,79.24%,114.2,,99.0,67.32,124.62,62.833333333333336,True
+8,AQUA,Evoqua Water Technologies Corp.,Industrials,Pollution & Treatment Controls,5589.89,69.0,14.0,90,1.33,45.83,48.7,6.26,2.16%,-1.88%,16.29%,36.89%,71.26%,69.87%,45.68,,35.6,22.0,49.38,57.666666666666664,True
+9,ARCB,ArcBest Corporation,Industrials,Trucking,2814.44,76.5,25.0,97,2.02,111.64,128.56,15.16,6.97%,1.35%,46.01%,92.02%,156.23%,161.64%,105.38,,78.09,42.41,116.79,66.16666666666667,True
+10,ATKR,Atkore Inc.,Industrials,Specialty Industrial Machinery,5092.94,69.0,15.0,98,2.03,106.28,126.25,18.79,-1.51%,-3.45%,9.45%,47.71%,162.87%,158.53%,107.75,,85.33,39.65,118.49,60.666666666666664,True
+11,AVID,"Avid Technology, Inc.",Communication Services,Electronic Gaming & Multimedia,1430.64,64.0,40.0,97,1.81,31.87,42.5,33.35,4.49%,-7.46%,9.18%,-16.51%,130.94%,100.82%,31.8,,29.5,13.5,40.48,67.0,True
+12,AZO,"AutoZone, Inc.",Consumer Cyclical,Specialty Retail,42546.24,69.0,16.0,90,1.32,2014.5,2170.29,7.73,0.16%,7.15%,18.86%,36.18%,68.86%,69.94%,1946.72,,1608.09,1111.71,2065.72,58.333333333333336,True
+13,BFS,"Saul Centers, Inc.",Real Estate,REIT - Retail,1262.32,66.5,14.0,88,1.26,51.99,54.33,4.5,1.35%,-3.11%,19.19%,12.17%,61.41%,64.11%,51.1,,45.52,29.65,54.46,56.166666666666664,True
+15,BJ,"BJ's Wholesale Club Holdings, Inc.",Consumer Defensive,Discount Stores,9314.49,69.0,18.0,90,1.32,64.26,78.21,21.71,-1.55%,-7.43%,10.09%,36.26%,68.75%,72.37%,65.72,,52.86,36.71,74.09,59.0,True
+16,BLDR,"Builders FirstSource, Inc.",Industrials,Building Products & Equipment,15817.98,86.5,16.0,94,1.54,82.15,92.64,12.77,6.34%,12.00%,51.68%,81.71%,97.67%,101.30%,75.7,,52.98,37.46,82.9,65.5,True
+17,BOOT,"Boot Barn Holdings, Inc.",Consumer Cyclical,Apparel Retail,3493.22,71.5,16.0,98,2.11,116.83,132.1,13.07,3.02%,-8.33%,21.60%,38.28%,186.35%,169.44%,119.93,,88.04,40.72,134.5,61.833333333333336,True
+18,BVH,Bluegreen Vacations Holding Corporation,Consumer Cyclical,Resorts & Casinos,722.48,74.0,20.0,98,2.21,35.14,51.5,46.56,7.86%,7.76%,32.30%,100.34%,171.14%,159.72%,32.09,,22.71,12.25,35.21,64.0,True
+20,BXC,BlueLinx Holdings Inc.,Industrials,Building Products & Equipment,850.49,66.5,15.0,98,2.29,87.14,106.33,22.02,7.98%,15.17%,72.28%,88.53%,192.51%,197.81%,79.22,,53.67,27.13,87.45,59.833333333333336,True
+22,CCS,"Century Communities, Inc.",Consumer Cyclical,Residential Construction,2776.49,81.5,15.0,90,1.34,79.51,100.25,26.08,2.55%,9.26%,23.04%,20.03%,72.59%,81.61%,77.78,,68.52,40.82,86.07,62.166666666666664,True
+23,CLFD,"Clearfield, Inc.",Technology,Communication Equipment,1057.15,74.0,22.0,99,2.41,78.54,80.0,1.86,14.76%,18.21%,71.56%,110.90%,210.56%,217.72%,67.36,,44.84,23.6,79.25,65.0,True
+27,CPT,Camden Property Trust,Real Estate,REIT - Residential,18027.35,66.5,37.0,91,1.37,173.49,178.24,2.74,-0.57%,3.53%,15.85%,28.30%,78.21%,73.63%,171.19,,142.0,94.59,177.45,64.83333333333333,True
+28,CSV,"Carriage Services, Inc.",Consumer Cyclical,Personal Services,1024.49,86.5,22.0,94,1.56,62.66,63.75,1.74,7.42%,15.78%,41.76%,70.27%,105.51%,100.06%,56.36,,42.16,30.42,63.9,67.5,True
+29,CUBE,CubeSmart,Real Estate,REIT - Industrial,11821.23,64.0,19.0,89,1.3,55.8,60.3,8.06,2.35%,3.58%,11.27%,17.03%,67.22%,66.02%,54.83,,48.17,31.44,57.29,57.333333333333336,True
+30,CUBI,"Customers Bancorp, Inc.",Financial,Banks - Regional,2330.52,71.5,21.0,99,2.71,62.97,70.38,11.77,-3.36%,7.57%,53.77%,53.70%,252.18%,246.37%,58.68,,41.92,17.77,66.17,63.833333333333336,True
+31,CVCO,"Cavco Industries, Inc.",Consumer Cyclical,Residential Construction,2812.36,66.5,14.0,89,1.31,302.73,345.67,14.18,0.94%,-1.91%,23.67%,37.72%,67.98%,72.54%,307.73,,242.58,170.86,327.24,56.5,True
+37,ECPG,"Encore Capital Group, Inc.",Financial,Mortgage Finance,1775.58,69.0,18.0,88,1.27,60.23,67.75,12.49,2.38%,1.76%,26.45%,24.78%,60.40%,54.63%,58.61,,48.25,29.21,60.87,58.333333333333336,True
+38,EFX,Equifax Inc.,Industrials,Consulting Services,36739.84,66.5,13.0,82,1.16,287.03,296.94,3.45,-1.11%,1.44%,8.11%,20.10%,48.82%,48.84%,285.88,,247.68,161.87,300.11,53.833333333333336,True
+39,ENVA,"Enova International, Inc.",Financial,Credit Services,1518.23,74.0,20.0,86,1.22,40.4,44.5,10.15,1.69%,0.92%,20.78%,16.13%,56.95%,63.10%,38.86,,35.19,22.01,43.47,60.0,True
+42,EXTR,"Extreme Networks, Inc.",Technology,Communication Equipment,1884.75,69.0,19.0,96,1.68,15.0,15.5,3.33,12.19%,12.02%,52.59%,32.98%,112.77%,117.71%,13.68,,10.87,6.69,15.01,61.333333333333336,True
+44,GDYN,"Grid Dynamics Holdings, Inc.",Technology,Information Technology Services,2595.67,81.5,37.0,99,2.51,39.75,40.67,2.31,6.00%,5.55%,25.51%,122.94%,222.12%,215.48%,38.26,,23.96,11.86,41.97,72.5,True
+46,GMS,GMS Inc.,Industrials,Building Products & Equipment,2592.07,71.5,18.0,93,1.46,58.04,68.14,17.4,3.11%,-2.83%,24.84%,20.29%,93.40%,90.42%,57.46,,47.98,28.19,61.79,60.833333333333336,True
+48,HLIT,Harmonic Inc.,Technology,Communication Equipment,1192.5,69.0,34.0,88,1.27,11.69,12.5,6.93,8.14%,5.03%,29.89%,39.67%,64.65%,58.19%,10.87,,8.84,6.69,11.8,63.666666666666664,True
+50,INTU,Intuit Inc.,Technology,Software - Application,183987.19,76.5,20.0,89,1.31,635.71,742.37,16.78,0.28%,-5.21%,10.00%,30.78%,68.66%,67.36%,651.8,,517.19,357.69,716.86,61.833333333333336,True
+51,INVE,"Identiv, Inc.",Technology,Computer Hardware,533.55,74.0,15.0,99,2.58,24.43,29.25,19.73,8.92%,10.39%,23.32%,50.99%,237.43%,187.41%,22.85,,17.35,7.1,25.25,62.666666666666664,True
+53,JBL,Jabil Inc.,Technology,Electronic Components,10005.17,79.0,25.0,89,1.28,69.81,78.5,12.45,8.32%,12.89%,12.22%,21.51%,61.11%,64.14%,62.88,,58.33,40.87,70.79,64.33333333333333,True
+54,JCI,Johnson Controls International plc,Industrials,Engineering & Construction,56479.0,71.5,22.0,90,1.33,78.11,85.11,8.96,-1.25%,-1.38%,6.17%,16.43%,70.10%,67.65%,77.78,,69.85,45.55,81.15,61.166666666666664,True
+55,KFRC,Kforce Inc.,Industrials,Staffing & Employment Services,1617.41,74.0,22.0,91,1.37,75.58,79.33,4.96,3.38%,-6.40%,21.45%,21.57%,77.29%,79.57%,74.15,,62.7,41.53,81.47,62.333333333333336,True
+56,LEGH,Legacy Housing Corporation,Consumer Cyclical,Residential Construction,614.34,74.0,17.0,90,1.33,25.78,30.5,18.31,5.53%,-3.91%,44.26%,49.97%,74.07%,70.62%,25.29,,19.25,13.95,28.84,60.333333333333336,True
+58,LPX,Louisiana-Pacific Corporation,Industrials,Building Products & Equipment,6802.53,64.0,22.0,95,1.6,76.39,78.75,3.09,1.02%,8.02%,24.09%,31.55%,99.61%,105.52%,72.77,,62.73,36.39,78.43,60.333333333333336,True
+60,LSI,"Life Storage, Inc.",Real Estate,REIT - Industrial,11976.43,79.0,16.0,93,1.44,146.86,150.8,2.68,1.54%,10.76%,25.03%,35.48%,88.31%,84.51%,140.51,,114.06,75.54,148.4,62.666666666666664,True
+62,MBIN,Merchants Bancorp,Financial,Banks - Regional,1359.28,81.5,22.0,90,1.33,47.23,52.33,10.8,5.57%,-3.69%,27.30%,16.44%,67.96%,70.94%,45.43,,41.07,26.75,49.5,64.5,True
+63,MGTX,MeiraGTx Holdings plc,Healthcare,Biotechnology,942.59,76.5,14.0,75,1.07,22.4,36.0,60.71,12.56%,22.00%,67.54%,38.53%,36.34%,47.95%,19.94,,15.52,11.6,23.15,55.166666666666664,True
+64,MIME,Mimecast Limited,Technology,Software - Infrastructure,5299.06,71.5,23.0,75,1.07,79.47,82.83,4.23,0.58%,1.79%,19.32%,45.52%,36.06%,39.81%,78.73,,59.44,38.84,85.48,56.5,True
+65,MLI,"Mueller Industries, Inc.",Industrials,Metal Fabrication,3402.36,74.0,17.0,89,1.29,58.51,100.0,70.91,0.93%,-3.86%,41.50%,33.52%,66.74%,66.65%,57.19,,46.69,34.05,63.07,60.0,True
+67,MRVL,"Marvell Technology, Inc.",Technology,Semiconductors,71835.35,74.0,16.0,93,1.46,87.68,99.38,13.34,4.89%,19.75%,37.84%,55.74%,88.92%,84.43%,83.27,,59.56,37.92,93.85,61.0,True
+70,NMRK,"Newmark Group, Inc.",Real Estate,Real Estate Services,3742.89,74.0,18.0,97,1.82,17.37,19.2,10.54,8.09%,-1.19%,21.98%,38.85%,139.26%,138.27%,16.2,,13.28,6.56,17.97,63.0,True
+71,NPTN,NeoPhotonics Corporation,Technology,Semiconductors,793.54,69.0,20.0,89,1.31,15.17,15.67,3.3,0.66%,-1.94%,68.56%,43.93%,67.07%,66.89%,15.25,,10.93,7.95,16.14,59.333333333333336,True
+73,NSA,National Storage Affiliates Trust,Real Estate,REIT - Industrial,5913.31,69.0,41.0,93,1.48,67.09,68.77,2.5,3.85%,7.98%,21.19%,30.65%,89.84%,86.21%,63.84,,52.9,33.79,67.58,67.66666666666667,True
+74,NSSC,"Napco Security Technologies, Inc.",Industrials,Security & Protection Services,938.3,81.5,34.0,93,1.49,49.83,54.4,9.17,-0.22%,0.46%,12.74%,32.10%,90.77%,90.05%,48.34,,39.01,25.27,52.0,69.5,True
+78,OMI,"Owens & Minor, Inc.",Healthcare,Medical Distribution,3120.1,66.5,19.0,83,1.18,43.65,50.2,15.01,8.88%,3.61%,38.92%,6.02%,41.49%,61.37%,41.31,,38.89,23.58,49.16,56.166666666666664,True
+80,ONEW,OneWater Marine Inc.,Consumer Cyclical,Recreational Vehicles,847.69,84.0,22.0,91,1.35,53.18,60.0,12.82,2.24%,-2.24%,36.18%,30.60%,85.12%,90.85%,51.69,,45.07,26.65,56.78,65.66666666666667,True
+81,ONTO,Onto Innovation Inc.,Technology,Semiconductors,4848.46,79.0,40.0,95,1.61,99.11,107.0,7.96,8.96%,8.21%,29.81%,37.42%,111.64%,108.43%,94.0,,74.18,46.46,101.26,71.33333333333333,True
+84,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,54756.7,79.0,16.0,86,1.22,561.78,608.74,8.36,7.27%,5.40%,14.54%,49.58%,53.99%,58.07%,532.78,,421.73,311.56,566.84,60.333333333333336,True
+85,PDFS,"PDF Solutions, Inc.",Technology,Software - Application,1155.14,74.0,19.0,80,1.13,31.33,34.25,9.32,8.67%,1.13%,32.19%,69.99%,41.89%,45.05%,30.19,,21.56,16.44,33.78,57.666666666666664,True
+86,PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,121121.64,76.5,16.0,89,1.29,161.75,163.79,1.26,-0.92%,6.01%,26.47%,32.58%,68.16%,62.30%,157.98,,129.22,93.08,165.08,60.5,True
+87,POOL,Pool Corporation,Consumer Cyclical,Leisure,22480.69,66.5,17.0,84,1.19,549.65,566.71,3.1,-0.35%,-2.12%,18.08%,20.60%,50.37%,47.56%,553.71,,461.85,305.47,582.27,55.833333333333336,True
+88,PSTG,"Pure Storage, Inc.",Technology,Computer Hardware,9591.58,76.5,14.0,76,1.09,33.34,35.44,6.3,4.71%,22.21%,22.98%,66.70%,37.77%,47.46%,32.03,,23.27,16.79,34.65,55.5,True
+90,ROG,Rogers Corporation,Technology,Electronic Components,5129.49,89.0,26.0,91,1.35,272.7,277.0,1.58,0.93%,0.96%,42.99%,41.64%,79.38%,75.61%,271.37,,207.47,147.6,273.38,68.66666666666667,True
+92,RVI,Retail Value Inc.,Real Estate,REIT - Retail,137.37,74.0,26.0,96,1.79,6.29,28.0,345.15,-0.79%,0.96%,28.28%,58.21%,134.64%,124.39%,6.15,,4.58,2.67,6.84,65.33333333333333,True
+94,SCVL,"Shoe Carnival, Inc.",Consumer Cyclical,Apparel Retail,1084.64,81.5,13.0,94,1.52,39.27,57.5,46.42,5.48%,-10.55%,16.70%,4.76%,103.16%,100.46%,38.95,,34.39,18.04,46.21,62.833333333333336,True
+95,SFST,"Southern First Bancshares, Inc.",Financial,Banks - Regional,469.3,66.5,15.0,91,1.37,62.74,64.33,2.53,4.86%,-3.07%,21.64%,16.77%,76.24%,77.48%,60.38,,53.11,34.5,65.59,57.5,True
+96,SGH,"SMART Global Holdings, Inc.",Technology,Semiconductors,1610.19,81.5,48.0,93,1.44,66.73,72.0,7.9,13.97%,14.05%,37.30%,44.09%,88.02%,77.33%,60.25,,50.04,35.34,67.86,74.16666666666667,True
+97,SHYF,"The Shyft Group, Inc.",Industrials,Farm & Heavy Construction Machinery,1720.85,81.5,20.0,90,1.33,48.42,54.67,12.91,4.15%,-5.45%,23.65%,27.72%,72.31%,70.61%,48.19,,40.91,26.9,54.5,63.833333333333336,True
+100,STC,Stewart Information Services Corporation,Financial,Insurance - Property & Casualty,2121.43,74.0,22.0,88,1.27,78.08,92.5,18.47,2.70%,-0.84%,24.59%,38.44%,61.29%,61.46%,74.94,,62.62,45.58,80.14,61.333333333333336,True
+102,STXB,"Spirit of Texas Bancshares, Inc.",Financial,Banks - Regional,504.17,81.5,32.0,90,1.32,28.34,33.0,16.44,-0.53%,-2.51%,19.43%,21.27%,68.99%,68.69%,28.32,,23.98,16.37,30.46,67.83333333333333,True
+104,THC,Tenet Healthcare Corporation,Healthcare,Medical Care Facilities,8494.29,71.5,15.0,94,1.56,79.26,88.06,11.1,6.32%,-0.18%,11.02%,13.33%,95.56%,98.50%,74.97,,67.34,38.03,83.69,60.166666666666664,True
+105,THRY,"Thryv Holdings, Inc.",Communication Services,Internet Content & Information,1264.13,84.0,19.0,99,2.68,39.74,47.0,18.27,11.44%,8.25%,35.59%,13.32%,239.66%,194.37%,37.69,,30.46,11.35,41.86,67.33333333333333,True
+106,TITN,Titan Machinery Inc.,Industrials,Industrial Distribution,752.37,94.0,20.0,90,1.32,32.18,41.67,29.49,-2.54%,-15.96%,25.07%,1.19%,70.08%,64.60%,32.8,,28.74,18.65,38.58,68.0,True
+107,TMST,TimkenSteel Corporation,Basic Materials,Steel,716.11,66.5,26.0,99,2.73,16.22,18.15,11.9,16.52%,-2.99%,23.53%,11.48%,228.34%,247.32%,14.62,,13.63,4.53,17.73,63.833333333333336,True
+110,TSC,"TriState Capital Holdings, Inc.",Financial,Banks - Regional,1007.26,69.0,22.0,91,1.38,29.96,30.5,1.8,0.44%,-1.45%,50.78%,41.12%,78.12%,72.18%,29.57,,23.64,16.34,31.24,60.666666666666664,True
+111,UCTT,"Ultra Clean Holdings, Inc.",Technology,Semiconductor Equipment & Materials,2529.22,81.5,44.0,92,1.41,56.18,72.58,29.19,9.56%,-2.36%,20.48%,6.24%,80.18%,80.35%,54.24,,50.95,29.92,65.33,72.5,True
+115,WIRE,Encore Wire Corporation,Industrials,Electrical Equipment & Parts,2854.8,86.5,18.0,97,1.85,138.65,160.0,15.4,5.01%,-6.30%,42.51%,79.48%,144.71%,128.91%,134.92,,93.21,56.27,151.64,67.16666666666667,True
+116,WSC,WillScot Mobile Mini Holdings Corp.,Industrials,Rental & Leasing Services,9066.99,84.0,16.0,91,1.38,40.59,43.5,7.17,2.09%,2.89%,25.82%,44.81%,82.02%,75.18%,39.43,,30.97,22.65,41.28,63.666666666666664,True
+118,ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,114003.95,81.5,22.0,82,1.17,242.51,246.33,1.58,4.17%,8.43%,18.45%,29.53%,51.71%,46.53%,229.33,,194.11,141.41,244.39,61.833333333333336,True

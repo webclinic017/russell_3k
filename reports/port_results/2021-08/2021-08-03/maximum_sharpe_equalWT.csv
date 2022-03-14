@@ -1,0 +1,5 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+0,HCA,25.0,"HCA Healthcare, Inc.",247.3,262.11,625.0,2.53,663.14,6.1,1.0
+1,COF,25.0,Capital One Financial Corporation,158.79,124.63,625.0,3.94,491.04,-21.43,2.0
+2,DXC,25.0,DXC Technology Company,42.18,29.87,625.0,14.82,442.67,-29.17,3.0
+3,CRL,25.0,"Charles River Laboratories International, Inc.",416.31,256.04,625.0,1.5,384.06,-38.55,4.0

@@ -1,0 +1,3 @@
+,ticker,allocation,companyName,start_price,current_price,initial_investment,shares,cash_now,return,rank
+2,YETI,50.0,"YETI Holdings, Inc.",97.56,60.49,1250.0,12.81,774.88,-38.01,1.0
+1,CROX,50.0,"Crocs, Inc.",131.82,73.17,1250.0,9.48,693.65,-44.51,2.0
